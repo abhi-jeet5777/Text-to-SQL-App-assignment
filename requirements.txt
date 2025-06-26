@@ -2,3 +2,4 @@ streamlit
 boto3
 matplotlib
 pandas
+python-dotenv
